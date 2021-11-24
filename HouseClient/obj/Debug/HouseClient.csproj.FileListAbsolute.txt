@@ -1,0 +1,10 @@
+D:\VisualStudio2019-BT\SoapService\HouseClient\bin\Debug\HouseClient.exe.config
+D:\VisualStudio2019-BT\SoapService\HouseClient\bin\Debug\HouseClient.exe
+D:\VisualStudio2019-BT\SoapService\HouseClient\bin\Debug\HouseClient.pdb
+D:\VisualStudio2019-BT\SoapService\HouseClient\obj\Debug\HouseClient.csproj.AssemblyReference.cache
+D:\VisualStudio2019-BT\SoapService\HouseClient\obj\Debug\HouseClient.HouseForm.resources
+D:\VisualStudio2019-BT\SoapService\HouseClient\obj\Debug\HouseClient.Properties.Resources.resources
+D:\VisualStudio2019-BT\SoapService\HouseClient\obj\Debug\HouseClient.csproj.GenerateResource.cache
+D:\VisualStudio2019-BT\SoapService\HouseClient\obj\Debug\HouseClient.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019-BT\SoapService\HouseClient\obj\Debug\HouseClient.exe
+D:\VisualStudio2019-BT\SoapService\HouseClient\obj\Debug\HouseClient.pdb

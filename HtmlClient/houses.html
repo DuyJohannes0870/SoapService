@@ -1,0 +1,35 @@
+<html>
+<head>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script> 
+    <script src="https://cdn.rawgit.com/abdmob/x2js/master/xml2json.js"></script> 
+    <script src="houses.js"></script>
+</head>
+
+<body onload="page_Load()">
+    <h2>HOUSE LIST</h2>
+    <input type="text" id="txtKeyword" placeholder="Keyword" />&nbsp;
+    <input type="button" value="SEARCH" onclick="btnSearch_Click()"/><br/><br/>
+    <table id="lstHouses" border="1"></table><br/> 
+
+    <h2>HOUSE DETAILS</h2> <table> 
+    <tr> 
+    <td>ID</td> 
+    <td><input type="text" id="txtID" /></td> </tr> <tr> 
+    <td>Owner</td> 
+    <td><input type="text" id="txtOwner" /></td> </tr> <tr> 
+    <td>Type</td> 
+    <td><input type="text" id="txtType" /></td> </tr> <tr> 
+    <td>Price</td> 
+    <td><input type="text" id="txtPrice" /></td></tr> <tr> 
+    <td>Address</td> 
+    <td><input type="text" id="txtAddress" /></td>
+    </tr>
+
+
+    <td colspan = "2">
+    <input type="button" value="ADD NEW" onclick="btnAdd_Click()" />
+    <input type="button" value="UPDATE" onclick="btnUpdate_Click() " /> 
+    <input type="button" value="DELETE" onclick="btnDelete_Click()" /> </td> </tr>
+    </table>
+</body>
+</html>
